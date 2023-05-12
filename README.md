@@ -1,7 +1,5 @@
 <div align="center"> <br>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=98AFC7&height=200&section=header&text=Tital%20wave&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
-
+  
 **<center>👋 Hi, I'm Jinseo Jeong 👋</center>** <br>
 Interested in App Development <br><br>
 
