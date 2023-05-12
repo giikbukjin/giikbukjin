@@ -4,7 +4,7 @@
 
 🛠️ Stacks
 
-<img src="https://img.shields.io/badge/kotlin-181717?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-181717?style=flat-square&logo=kotlin&logoColor=#7F52FF"/>
 
 💪🏼 Tools 
 
