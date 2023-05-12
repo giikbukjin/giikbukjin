@@ -1,24 +1,38 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=98AFC7&height=200&section=header&text=Tital%20wave&fontSize=50&fontColor=FFFFFF&fontAlignY=40)
+<div align="center"> <br>
 
-###<center>👋 Hi, I'm Jinseo Jeong 👋</center> <br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=98AFC7&height=200&section=header&text=Tital%20wave&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
 
->#### Interested in App Development 
+**<center>👋 Hi, I'm Jinseo Jeong 👋</center>** <br>
+Interested in App Development <br><br>
 
-🛠️ Platforms & Languages <br>
-  used as the main
+**🛠️ Platforms & Languages 🛠️** 
   
-  <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <br>
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+💡 used as the main 💡
 
-  used at least one
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/> 
+  <br>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/> <br>
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
+💡 used at least one 💡
 
-💪🏼 Tools 
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
+  <br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <br>
+  
+**💪 Tools 💪**
 
-🐱 About Me
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  <br>
+  
+**🐢 About Me 🐢**
+
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+</div>
