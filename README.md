@@ -1,5 +1,5 @@
-<div align="center"> <br>
-  
+<div align="center">
+
 **<center>👋 Hi, I'm Jinseo Jeong 👋</center>** <br>
 Interested in App Development <br><br>
 
