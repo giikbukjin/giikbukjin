@@ -16,4 +16,5 @@
 **🐢 About Me 🐢**
 
 [<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/>](https://giikbukjin.tistory.com/)
+[velog](https://velog.io/@jins315/posts)
 </div>
